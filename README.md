@@ -1,1 +1,1 @@
-# react1
+# boilerplate-react-functional-public
